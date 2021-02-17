@@ -8,7 +8,7 @@ public class RollingDice {
 	public static void main(String[] args) {
 		boolean running = true;
 		while(running) {
-		System.out.println("Welcome to Sameer's random nuber generator");
+		System.out.println("Welcome to Sameer's random number generator");
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter Upper limit number:");
 		int upperLimit = sc.nextInt();
